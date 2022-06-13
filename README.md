@@ -1,1 +1,2 @@
 # myfirstgitrepo
+edited the readme
